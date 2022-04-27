@@ -136,3 +136,4 @@ dmypy.json
 
 # any test file
 test.py
+quotes.txt
